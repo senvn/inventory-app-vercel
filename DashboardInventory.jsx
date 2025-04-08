@@ -1,0 +1,1 @@
+// DashboardInventory.jsx placeholder
